@@ -13,6 +13,8 @@
 		D1F2FBD824CC5C97009F3CD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1F2FBD624CC5C97009F3CD6 /* Main.storyboard */; };
 		D1F2FBDA24CC5C99009F3CD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1F2FBD924CC5C99009F3CD6 /* Assets.xcassets */; };
 		D1F2FBDD24CC5C99009F3CD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1F2FBDB24CC5C99009F3CD6 /* LaunchScreen.storyboard */; };
+		D1F2FBE524CC5DCD009F3CD6 /* Final.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1F2FBE424CC5DCD009F3CD6 /* Final.storyboard */; };
+		D1F2FBE924CC5E29009F3CD6 /* FinalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2FBE824CC5E29009F3CD6 /* FinalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D1F2FBD924CC5C99009F3CD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1F2FBDC24CC5C99009F3CD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D1F2FBDE24CC5C99009F3CD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1F2FBE424CC5DCD009F3CD6 /* Final.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Final.storyboard; sourceTree = "<group>"; };
+		D1F2FBE824CC5E29009F3CD6 /* FinalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				D1F2FBD624CC5C97009F3CD6 /* Main.storyboard */,
 				D1F2FBD924CC5C99009F3CD6 /* Assets.xcassets */,
 				D1F2FBDB24CC5C99009F3CD6 /* LaunchScreen.storyboard */,
+				D1F2FBE424CC5DCD009F3CD6 /* Final.storyboard */,
+				D1F2FBE824CC5E29009F3CD6 /* FinalViewController.swift */,
 				D1F2FBDE24CC5C99009F3CD6 /* Info.plist */,
 			);
 			path = PracticeFirebaseUI;
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1F2FBDD24CC5C99009F3CD6 /* LaunchScreen.storyboard in Resources */,
+				D1F2FBE524CC5DCD009F3CD6 /* Final.storyboard in Resources */,
 				D1F2FBDA24CC5C99009F3CD6 /* Assets.xcassets in Resources */,
 				D1F2FBD824CC5C97009F3CD6 /* Main.storyboard in Resources */,
 			);
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1F2FBD524CC5C97009F3CD6 /* ViewController.swift in Sources */,
+				D1F2FBE924CC5E29009F3CD6 /* FinalViewController.swift in Sources */,
 				D1F2FBD124CC5C97009F3CD6 /* AppDelegate.swift in Sources */,
 				D1F2FBD324CC5C97009F3CD6 /* SceneDelegate.swift in Sources */,
 			);
