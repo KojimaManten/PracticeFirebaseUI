@@ -383,6 +383,7 @@
 			baseConfigurationReference = 26D69215EB786F8DFBFD7653 /* Pods-PracticeFirebaseUI.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = PracticeFirebaseUI/PracticeFirebaseUI.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6Q7A759C5Y;
 				INFOPLIST_FILE = PracticeFirebaseUI/Info.plist;
@@ -402,6 +403,7 @@
 			baseConfigurationReference = FBE62522057930CBD656D79D /* Pods-PracticeFirebaseUI.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = PracticeFirebaseUI/PracticeFirebaseUI.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6Q7A759C5Y;
 				INFOPLIST_FILE = PracticeFirebaseUI/Info.plist;
