@@ -19,18 +19,9 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.googleusercontent.apps.1002337823510-ujh5ajerv7h94v0c2s6ok00i0se7opjv</string>
-			</array>
-		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
 				<string>fb2753530518260408</string>
 			</array>
 		</dict>
@@ -79,5 +70,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>FacebookAppID</key>
+	<string>2753530518260408</string>
+	<key>FacebookDisplayName</key>
+	<string>PracticrFirebaseUI</string>
 </dict>
 </plist>

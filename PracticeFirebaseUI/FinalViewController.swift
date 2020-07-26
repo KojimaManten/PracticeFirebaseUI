@@ -15,6 +15,7 @@ class FinalViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        thirdText.text = "できた"
     }
     
 
