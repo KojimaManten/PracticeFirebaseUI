@@ -10,7 +10,7 @@
         <!--Final View Controller-->
         <scene sceneID="DKy-Px-iJX">
             <objects>
-                <viewController storyboardIdentifier="third" id="yUL-85-wYh" customClass="FinalViewController" customModule="PracticeFirebaseUI" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="yUL-85-wYh" customClass="FinalViewController" customModule="PracticeFirebaseUI" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="AeZ-6Y-qxq">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -33,13 +33,14 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Csz-8w-eCu"/>
                     </view>
+                    <navigationItem key="navigationItem" id="ddy-Ph-LhP"/>
                     <connections>
                         <outlet property="thirdText" destination="OnX-vb-XoB" id="GQe-v9-frX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LLA-95-TWg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="112" y="136"/>
+            <point key="canvasLocation" x="1021.7391304347827" y="135.9375"/>
         </scene>
     </scenes>
 </document>
